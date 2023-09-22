@@ -1,3 +1,6 @@
+# REPO MOVED TO SUPERVISELY ECOSYSTEM!
+https://github.com/supervisely-ecosystem/ninja-updater
+
 <div align="center" markdown>
 <img src="!PLACEHOLDER!"/>
 
